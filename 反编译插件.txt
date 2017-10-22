@@ -1,0 +1,2 @@
+JDT Decompiler provides an editor for decompiled classes. 
+JD-Eclipse Plug-in 0.1.5	jd.ide.eclipse.feature.feature.group Java Decompiler
